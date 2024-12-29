@@ -5,9 +5,10 @@ You can click the Preview link to take a look at your changes.
 
 ### Hi there 👋
 
-## I’m @MauiJay
+### I’m @MauiJay
 
 ###### ***Business Consultant*** | ***Web Design*** | ***Content Creator***
+##
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
